@@ -17,4 +17,14 @@ FU-MIN, SZU!!
 - [week_1_first_meet.ipynb](https://github.com/sufferming/csxproject/blob/master/week_1/week_1_first_meet.ipynb)
 -----
 ## Week_2 :
+### [Course](https://github.com/Hank421Chen/STASD/tree/master/week_2/Courses):
+1. climate1_getStationInfo.ipynb ( Use web crawler to get data of the weather station part1 )
+2. climate2_getClimate.ipynb ( Use web crawler to get data of the weather station part2 )
+3. final.ipynb (   part1
+4. clean_cityUnite.ipynb 91APP 交易資料訂單配送城市整理 (六都) part2
+5. Final_project.ipynb 整合 91APP 資料與氣象資料
+### [Homework](https://github.com/Hank421Chen/STASD/tree/master/week_2/Practice):
+### Reference:
+- [NTU-CSX-Project/107-1PythonSampleCode](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
+- [kevinkevin556/STASD/week 2/climate.py](https://github.com/kevinkevin556/STASD/blob/master/week%202/climate.py)
 
