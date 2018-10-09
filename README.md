@@ -28,4 +28,25 @@ FU-MIN, SZU!!
 ### Reference:
 - [NTU-CSX-Project/107-1PythonSampleCode](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
 - [kevinkevin556/STASD/week 2/climate.py](https://github.com/kevinkevin556/STASD/blob/master/week%202/climate.py)
+-----
+## Week_3 :
+### Course:
+[week3_course](https://github.com/sufferming/csxproject/blob/master/week_3/hw3.ipynb)
+- 畫出星期幾 vs 銷售量的 bar chart
+### Homework:
+[week3_hw](https://github.com/sufferming/csxproject/blob/master/week_3/hw3.ipynb)
+- 
+-----
+## Week_4 :
+### Course:
+[week4_course](https://github.com/sufferming/csxproject/blob/master/week_4/Week4_2707_Exemple.ipynb)
+
+- 與中央大學會計所同學合作
+- 對[晶華公司財務報](https://github.com/sufferming/csxproject/blob/master/week_4/Reports/2707%202017%20晶華.pdf)表進行文字探勘
+- 繪製詞頻文字雲與bar圖
+- 閱讀指定論文[1_TextMining_Disclosures](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/blob/master/week_4/1_TextMining_Disclosures.pdf)
+### 實作
+1. 課堂練習[晶華報表_文字探勘.ipynb](https://github.com/sufferming/csxproject/blob/master/week_4/Week4_2707_Exemple.ipynb)
+2. 公司新聞資料庫文字探勘
+
 
