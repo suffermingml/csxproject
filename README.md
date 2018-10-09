@@ -48,5 +48,10 @@ FU-MIN, SZU!!
 ### 實作
 1. 課堂練習[晶華報表_文字探勘.ipynb](https://github.com/sufferming/csxproject/blob/master/week_4/Week4_2707_Exemple.ipynb)
 2. 公司新聞資料庫文字探勘
+3. 解決matplotlib無法顯示中文問題(https://www.zhihu.com/question/25404709)
+-----
+## Week_4 :
+### Course:
+[第五週上課報告ppt]()
 
 
